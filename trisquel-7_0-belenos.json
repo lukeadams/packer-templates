@@ -5,9 +5,9 @@
     "disk_size": "10140",
     "ssh_port": "22",
     "ssh_wait_timeout": "10000s",
-    "iso_url": "http://cdimage.debian.org/cdimage/archive/7.8.0/amd64/iso-cd/debian-7.8.0-amd64-netinst.iso",
-    "iso_md5": "a91fba5001cf0fbccb44a7ae38c63b6e",
-    "vm_name": "debian-780-wheezy"
+    "iso_url": "http://cdimage.trisquel.info/trisquel-images/trisquel-netinst_7.0_amd64.iso",
+    "iso_md5": "b03d6ba5cea83de3c24c9e80e9a95362",
+    "vm_name": "trisquel-7-0-belenos"
   },
   "builders": [
     {
